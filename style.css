@@ -1,0 +1,15 @@
+.aloo {
+    height: 400px;
+    width: 400px;
+    border: 10px solid white;
+    margin-left: 400px;
+}
+
+.bol {
+    text-align: center;
+}
+
+#bola {
+    text-align: center;
+    color: aliceblue;
+}
